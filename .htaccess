@@ -1,0 +1,4 @@
+AuthUserFile .htpasswd
+AuthName "hide.html"
+AuthType Basic
+require valid-user
